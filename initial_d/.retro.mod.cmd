@@ -1,0 +1,1 @@
+cmd_/home/ryuzaki/Desktop/kernel_module/initial_d/retro.mod := printf '%s\n'   retro.o | awk '!x[$$0]++ { print("/home/ryuzaki/Desktop/kernel_module/initial_d/"$$0) }' > /home/ryuzaki/Desktop/kernel_module/initial_d/retro.mod

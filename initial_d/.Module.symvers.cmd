@@ -1,0 +1,1 @@
+cmd_/home/ryuzaki/Desktop/kernel_module/initial_d/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/ryuzaki/Desktop/kernel_module/initial_d/Module.symvers -T /home/ryuzaki/Desktop/kernel_module/initial_d/modules.order -i Module.symvers -e 

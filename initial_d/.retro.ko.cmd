@@ -1,0 +1,1 @@
+cmd_/home/ryuzaki/Desktop/kernel_module/initial_d/retro.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/ryuzaki/Desktop/kernel_module/initial_d/retro.ko /home/ryuzaki/Desktop/kernel_module/initial_d/retro.o /home/ryuzaki/Desktop/kernel_module/initial_d/retro.mod.o;  true
